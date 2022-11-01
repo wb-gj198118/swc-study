@@ -1,0 +1,11 @@
+html {
+  @apply h-full
+}
+
+body {
+  @apply h-full bg-gradient-to-b from-sky-500 to-teal-500
+}
+
+.app-root {
+  @apply h-full flex flex-col justify-center items-center
+}
